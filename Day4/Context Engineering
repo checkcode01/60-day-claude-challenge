@@ -1,10 +1,10 @@
-## Comparison
+Comparison
 
-### Prompt A (Without Context)
+Prompt A (Without Context)
 
 The roadmap was generic and designed for a broad audience. It provided standard learning recommendations that could apply to almost anyone learning data storytelling.
 
-### Prompt B (With Context)
+Prompt B (With Context)
 
 The roadmap was specifically tailored to my role and goals. It incorporated:
 
@@ -13,22 +13,33 @@ The roadmap was specifically tailored to my role and goals. It incorporated:
 - Power BI and Canva
 - Leadership storytelling
 - Boardroom presentation outcomes
+Key Difference
 
-### Key Difference
+Prompt A: content://downloads/all_downloads/59
 
-Prompt A generated a roadmap.
+Prompt B 
+Create a 30-day Data Storytelling and Visualization learning roadmap.
 
-Prompt B generated a roadmap designed specifically for Emmy at EXL.
+Context:
 
-The AI was able to personalize recommendations because it understood my role, tools, objectives, and available time.
+- Name: Emmy Gilbert
+- Current Situation: HR Professional at EXL working in Workforce Planning, People Analytics, and HR Transformation
+- Current Skills: Excel, Power BI, Reporting, Dashboarding, Workforce Analytics, Stakeholder Management
+- Goal: Become a boardroom-ready data storyteller who can influence leadership decisions using HR data and AI-driven insights
+- Available Time: 15–20 minutes per day
+- Experience Level: Intermediate in analytics, beginner in data storytelling
+- Preferred Learning Style: Hands-on projects, visual examples, practical business use cases
+- Tools Available: Power BI, Canva, LinkedIn
+- Data Available: Attrition trends, GPTW scores, eNPS, Flight Risk metrics, AI Readiness Index, Learning data
+- Final Goal: Create executive-ready dashboards, compelling HR narratives, and leadership presentations that drive action
 
-This demonstrated that context significantly improves relevance, practicality, and actionability.
-## Biggest Learning
+Include:
+- Weekly milestones
+- Daily tasks
+- Learning resources (short-form preferred)
+- Practice projects using my HR datasets
+- Weekly deliverables
+- Final capstone project
+- Final outcome
 
-The biggest insight from this exercise is that context is often more important than the prompt itself.
-
-Without context, AI generates broadly useful answers.
-
-With context, AI generates answers that align with personal goals, existing skills, available resources, and desired outcomes.
-
-The more relevant context provided, the less AI has to guess and the more valuable the output becomes.
+Make it practical, highly personalized, and focused on real-world HR business storytelling.
