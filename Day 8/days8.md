@@ -67,6 +67,7 @@ Generate a complete downloadable HTML application that is fully responsive and r
 IMPORTANT
 
 Do not provide code snippets. Create a complete interactive Claude Artifact with working charts, filters, cards, insights, report cards, and dashboards that users can interact with directly.
+[index.html](https://github.com/user-attachments/files/28712268/index.html)
 
 
 ## Application Built
