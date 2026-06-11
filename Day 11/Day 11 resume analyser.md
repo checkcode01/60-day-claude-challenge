@@ -17,24 +17,28 @@ The AI reviewed my resume against a target job description and identified opport
 ATS Analysis Summary
 
 ATS Match Score
-85/100
+74/100
+<img width="2560" height="1600" alt="1000020408" src="https://github.com/user-attachments/assets/b67f67bd-3b6a-4c13-ab32-d0cbd250b4b3" />
 
-Key Findings
+Key Findings: 
 Missing Keywords
-Workforce Analytics
-HR Automation
-People Insights
-Talent Intelligence
-Data Visualization
-Improvement Areas
-Stronger professional summary
-Better keyword placement
-More measurable achievements
-Improved ATS-friendly formatting
-Resume Improvements Implemented
+
+<img width="2560" height="1600" alt="1000020410" src="https://github.com/user-attachments/assets/9acbbeca-f649-4ddf-baa9-4d16cf1307f3" />
+
 Professional Summary
 Rewritten to better align with HR Analytics and AI-driven HR roles.
-Skills Section
+
+Skills Section:
+Skills Present But Underframed (Now Repositioned)
+Predictive analytics → reframed as service delivery performance management
+AI chatbot → reframed as HR Consulting self-service delivery
+Headcount model → reframed as workforce planning for business leaders
+Improvement Opportunities (Emmy should address before applying)
+Years of experience — JD asks for ~15+ years; Emmy has 12+. Mention the depth of scope to compensate.
+Multi-team leadership — JD requires managing multiple HR Consulting teams across locations. If Emmy has any team management experience, add specific headcount managed.
+Global / matrixed environment — Preferred in JD. If Emmy has worked in a large multinational or MNC subsidiary, name it explicitly.
+Employer names — The resume uses placeholder company names. For Citi (a top-tier bank), named employers will significantly raise recruiter confidence.
+
 Reorganized into:
 HR Analytics
 AI & Prompt Engineering
