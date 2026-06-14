@@ -212,3 +212,52 @@ Key Learnings
 #ClaudeAI
 #ATSOptimization
 #HRAnalytics
+
+Resources: 
+https://claude.ai
+https://drive.google.com/file/d/1B4I9rSPFA7b3JxEoBkhXdVa6YUzCb5jA/
+https://drive.google.com/drive/folders/1wXfeJALkrzzah7ZAoUNQDok0y8TDWFFv
+
+submission: 
+Day 12: Build Your Complete Job Search & Personal Branding Toolkit with Claude
+
+On Time
+Submitted 14 Jun 2026
+
+Problem
+Welcome to Day 12 of the 60-Day Claude AI Mastery Challenge.
+
+Theme: Phase 2 — Building with Claude
+
+Today's focus: Learn how to use Claude as a Technical Recruiter, Hiring Manager, Career Coach, Executive Resume Writer, and Personal Branding Consultant.
+
+Most job seekers focus only on their resume. However, recruiters evaluate candidates through multiple touchpoints including cover letters, LinkedIn messages, recruiter outreach, referral requests, personal branding, interview communication, and overall professional positioning.
+
+Today you'll use Claude to generate a complete Job Search & Personal Branding Toolkit tailored specifically to your resume, target role, target companies, and professional profile.
+
+Tasks:
+
+Upload your resume.
+Add your target role.
+Add a target job description.
+Generate a complete job search toolkit.
+Generate personal branding assets.
+Identify skill gaps and career growth opportunities.
+Improve the generated content using a second prompt.
+Share your learning publicly.
+Important: Set Claude's effort level to Low before generating the output.
+
+You may use the Job Description repository provided in the resources section or paste a job description from LinkedIn, Naukri, Indeed, company career pages, or any job portal.
+
+If Claude does not generate the complete output or your usage limit is reached, wait for the reset period and continue later.
+
+Submission: Share your GitHub commit URL containing generated outputs, screenshots, and learning notes.
+
+Intermediate
+~60 min
+Learning objectives
+Understand recruiter and hiring manager expectations
+Generate ATS-friendly career assets
+Create personalized outreach messages
+Build a complete personal branding toolkit
+Identify skill gaps and career growth opportunities
