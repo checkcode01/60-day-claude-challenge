@@ -180,6 +180,7 @@ Business Understanding
 HR Expertise
 Technology Fluency
 AI Adoption Skills
+
 Screenshots
 Job Discovery Dashboard
 (Add Screenshot)
