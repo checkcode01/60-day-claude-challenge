@@ -194,10 +194,43 @@ Key Takeaway
 AI is no longer just helping candidates apply for jobs—it is helping professionals understand market demand, identify skill gaps, and build targeted career growth strategies.
 The future belongs to professionals who continuously learn, adapt, and combine domain expertise with AI capabilities.
 
-
 Resources:
 <img width="1600" height="2560" alt="1000022523" src="https://github.com/user-attachments/assets/9a649b75-7aa0-47be-a0cb-08febebd5d46" />
 
 https://claude.ai
 https://drive.google.com/file/d/1B4I9rSPFA7b3JxEoBkhXdVa6YUzCb5jA/
 https://claude.ai/directory/connectors/indeed
+
+submission: 
+Day 13: Connect Indeed with Claude & Build Your AI Job Search Assistant
+
+On Time
+Submitted 14 Jun 2026
+
+Problem
+Welcome to Day 13 of the 60-Day Claude AI Mastery Challenge.
+
+Theme: Phase 2 — Building with Claude
+
+Today's focus: Learn how to connect external data sources with Claude and transform it into a personalized AI-powered job search assistant.
+
+Most job seekers spend hours manually searching through job boards, filtering opportunities, comparing roles, and identifying which jobs are actually worth applying to.
+
+Today you'll connect Indeed with Claude using Claude Connectors and let Claude perform job discovery, role analysis, skill-gap analysis, and opportunity prioritization for you.
+
+Instead of manually searching hundreds of jobs, Claude will analyze your profile and help identify the highest-fit opportunities.
+
+Tasks:
+
+Connect Indeed with Claude.
+Create your professional profile.
+Define your job search criteria.
+Let Claude discover matching opportunities.
+Analyze market demand and skill gaps.
+Build your personalized job search strategy.
+Share your learning publicly.
+Important: Set Claude's effort level to Low before running the prompts.
+
+If Claude does not generate the complete output or your usage limit is reached, wait for the reset period and continue later.
+
+Submission: Share your GitHub commit URL containing screenshots, discovered opportunities, analysis, and learning notes.
