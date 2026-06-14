@@ -193,3 +193,11 @@ Market Demand Insights
 Key Takeaway
 AI is no longer just helping candidates apply for jobs—it is helping professionals understand market demand, identify skill gaps, and build targeted career growth strategies.
 The future belongs to professionals who continuously learn, adapt, and combine domain expertise with AI capabilities.
+
+
+Resources:
+<img width="1600" height="2560" alt="1000022523" src="https://github.com/user-attachments/assets/9a649b75-7aa0-47be-a0cb-08febebd5d46" />
+
+https://claude.ai
+https://drive.google.com/file/d/1B4I9rSPFA7b3JxEoBkhXdVa6YUzCb5jA/
+https://claude.ai/directory/connectors/indeed
