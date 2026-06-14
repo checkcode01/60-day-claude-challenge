@@ -1,9 +1,13 @@
 Day 13 – Build Your AI Job Search Assistant
+
 Objective
+
 Learn how Claude Connectors can automate job discovery, analyze market demand, identify skill gaps, and create a personalized job search strategy.
+
 What I Built
 Using Claude's Indeed Connector, I created an AI-powered Job Search Assistant that:
 Analyzed my professional profile
+
 Matched my skills against open opportunities
 Prioritized high-fit roles
 Identified skill gaps
@@ -12,6 +16,7 @@ Provided market demand insights
 Professional Profile Used
 Current Role
 HR Operations & Workforce Transformation Professional
+
 Experience
 10+ Years
 Domain Expertise
@@ -42,8 +47,8 @@ AI Application Building
 ATS Resume Optimization
 Personal Branding Toolkit
 Top Matching Job Roles Identified
-Role
-Match
+
+Role Match
 HR Transformation Manager
 92%
 HR Technology Consultant
@@ -76,6 +81,7 @@ Change Management
 Process Optimization
 Data Visualization
 AI & Automation
+
 Skill Gap Analysis
 Current Strengths
 HR Operations Leadership
@@ -114,6 +120,61 @@ Recruiter Positioning
 HR Transformation | HR Technology | AI-Driven Workforce Solutions | Employee Experience | Process Excellence
 Biggest Learning
 The most valuable insight was realizing that HR leadership roles are increasingly demanding expertise in HR Technology, AI, Analytics, and Digital Transformation alongside traditional HR experience.
+
+PROMPT used:
+PROMPT 1: Professional Profile
+
+Describe your professional background, including:
+
+Current role
+Years of experience
+Key skills and technologies
+Industry/domain expertise
+Current company type
+Current location
+Notable achievements, certifications, or accomplishments
+
+PROMPT 2: Job Search Criteria
+
+Specify your target job requirements, including:
+
+Desired job titles
+Preferred company types
+Preferred locations (Remote/Hybrid/Onsite)
+Salary expectations
+Industries or companies to exclude
+Job posting recency requirements
+Any additional preferences or constraints
+
+PROMPT 3: Job Discovery & Analysis
+
+Using my professional profile and job search criteria:
+
+Search for matching job opportunities using the available job connector(s)
+Prioritize the highest-fit roles
+Exclude jobs that do not meet my requirements
+Return the top opportunities in a table containing:
+
+Company
+Role
+Location
+Posted Date
+Direct Application Link
+Match Score
+Why It Fits My Profile
+CTC
+
+Also provide:
+
+Most commonly required skills across the jobs
+Skill gap analysis
+Market demand insights
+Recommendations to improve my chances of getting interviews
+Overall fit assessment for my target roles and compensation goals.
+
+
+
+
 Future HR leaders will need to combine:
 Business Understanding
 HR Expertise
