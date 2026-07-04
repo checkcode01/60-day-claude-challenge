@@ -28,19 +28,26 @@ Built an interactive Media Integrity Analyzer using Claude that teaches users ho
 - JavaScript
 - Claude AI
 
-## Screenshots
+## Screenshots : https://claude.ai/public/artifacts/6a06334f-3f09-40b1-a3f9-feafef0cac65
 
 ### Home Screen
-![Home](screenshots/home.png)
+![Home] <img width="2560" height="1600" alt="1000038287" src="https://github.com/user-attachments/assets/87a7c19f-bc8e-4f68-9429-1a786ba1a400" />
+
 
 ### Headline Detective
-![Headline](screenshots/headline-detective.png)
+![Headline](screenshots)
+
+<img width="2560" height="1600" alt="1000038289" src="https://github.com/user-attachments/assets/d1864ae1-e6a7-48aa-8099-0f6051d6db16" />
+
 
 ### Emotion Detector
-![Emotion](screenshots/emotion-detector.png)
+![Emotion](screenshots/emotion-detector)
+<img width="2560" height="1600" alt="1000038293" src="https://github.com/user-attachments/assets/c9cf95a4-7c04-4664-9f28-939e5c85d5d8" />
+
 
 ### Final Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard)
+
 
 ## Key Learnings
 
