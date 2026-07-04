@@ -48,7 +48,8 @@ Built an interactive Media Integrity Analyzer using Claude that teaches users ho
 ### Final Dashboard
 ![Dashboard](screenshots/dashboard)
 
-![Uploading 1000038299.jpg…]()
+<img width="2560" height="1600" alt="1000038299" src="https://github.com/user-attachments/assets/bdeaddac-5616-40f8-a1d9-094f074d3592" />
+
 
 ## Key Learnings
 
